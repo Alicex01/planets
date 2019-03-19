@@ -10,3 +10,5 @@ This repositoty contains our research into planets. Our research questions are:
   - question 2a
   - question 2b
 * Question 3
+
+---
