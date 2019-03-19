@@ -12,3 +12,7 @@ This repositoty contains our research into planets. Our research questions are:
 * Question 3
 
 ---
+Contact us for suggestion on how yo can help!
+---
+
+This is a sample of markdown
